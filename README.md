@@ -47,3 +47,6 @@
 ## 渗透测试
 - 2017/11/07 - [黑色渗透测试的一些姿势个人总结](http://bobao.360.cn/learning/detail/4664.html) - [本地备份](articles/pentest-summary.md)
 - 2017/11/22 - [对AWVS一次简单分析](http://blog.wils0n.cn/archives/145/) - [本地备份](articles/对AWVS一次简单的分析.md)
+
+## SRC
+- 2022/08/24 - [关于补天SRC小白入门详细介绍](https://blog.csdn.net/qq_37113223/article/details/111916474) - [本地备份](articles/关于补天SRC小白入门详细介绍.md)
